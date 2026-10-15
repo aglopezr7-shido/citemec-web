@@ -1,2 +1,2 @@
 # citemec-web
-Sitio web de CITEMEC.
+Sitio web de CITEMEC
